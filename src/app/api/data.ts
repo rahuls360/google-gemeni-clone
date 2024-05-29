@@ -1,6 +1,6 @@
 // subset of response of gemini
 const response1 = {
-  type: "video"
+	type: "video",
 	data: [
 		[
 			"GET YOUR FIRST PULL UP",
